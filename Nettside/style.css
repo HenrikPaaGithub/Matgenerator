@@ -1,3 +1,8 @@
+body{
+  background-color: #89B449;
+  font-family: 'Parkinsans', sans-serif ;
+}
+
 .body{
   overflow-x: hidden;
 }
@@ -24,6 +29,35 @@
   padding: 20px;
   background-color: #f2f2f2;
   border-radius: 5px;
+}
+
+.boxes{
+  background-color: #89B449;
+  width: 400px;
+  border: 50px;
+  border-color: red;
+  padding: 30px;
+  margin: 10px;
+  border-radius: 25px;
+}
+
+#sulten{
+  display: flex;
+  justify-content: space-evenly;
+}
+#butto2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#butto{
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  cursor: pointer;
+  margin: 4px 2px;
 }
 
 .dropbutton {

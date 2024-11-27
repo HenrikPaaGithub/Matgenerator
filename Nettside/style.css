@@ -4,7 +4,6 @@ body{
 }
 
 
-
 .body{
   overflow-x: hidden;
 }
@@ -36,7 +35,7 @@ body{
 
 .boxes{
   background-color: #89B449;
-  width: 400px;
+  width: 400px; 
   padding: 20px;
   margin: 5px;
   border-radius: 25px;

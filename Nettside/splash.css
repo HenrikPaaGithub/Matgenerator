@@ -20,21 +20,21 @@ a{
   
     width: 65%;
     height: 65%;
-    background-color: rgb(217, 142, 141);  
+    background: linear-gradient(120deg, #84fab0, #8fd3f4); 
     border-radius: 25px;
   }
   
   .left_splash_container{
-    background-color: #E68A8C;
-    width: 45%; 
+    background-color: #84fab0;
+    width: 50%; 
     height: 100%;
     border-top-left-radius: 25px;
     border-bottom-left-radius: 25px;
   }
   
   .right_splash_container{
-    background-color: #89B449;
-    width: 55%; 
+    background: linear-gradient(120deg, #84fab0, #8fd3f4); 
+    width: 50%; 
     height: 100%;
     border-radius: 25px;
   }
@@ -84,13 +84,13 @@ a{
     font-size: 1.3em;
     color: #407F3E;
     position: relative;
-    top: -300px;
+    top: -280px;
 }
 
 .text{
-    color: #DBD468; 
+    color: #407F3E;  
     position: relative;
-    top: 200px;
+    top: 150px;
     font-size: 1.6em;
     text-align: center;
 }
@@ -106,7 +106,7 @@ a{
     top:-70px; 
     height: 40px; 
     width: 200px; 
-    background-color: #407F3E;
+    background: linear-gradient(90deg, #6a11cb, #2575fc);;
     color: #E7E0C4; 
 
     border-radius: 20px;
